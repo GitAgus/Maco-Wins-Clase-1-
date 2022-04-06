@@ -1,4 +1,4 @@
-/** First Wollok example */
+
 object coeficienteT{
 	const property coeficiente = 0.01
 }
